@@ -1,0 +1,5 @@
+Audio Fingerprinting with Python - http://willdrevo.com/fingerprinting-and-audio-recognition-with-python/
+Git repo of the guy who authored above article - https://github.com/worldveil/dejavu
+
+Paper related to Shazam - http://www.ee.columbia.edu/~dpwe/papers/Wang03-shazam.pdf
+
